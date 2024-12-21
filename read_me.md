@@ -1,6 +1,6 @@
 # Abstract
 
-This repository (DE-Assignment) consists of **THREE (3)** releasesa, **ONE (1)** PDF file and **ONE (1)** ZIP file.
+This repository (DE-Assignment) consists of **THREE (3)** releases, **ONE (1)** PDF file and **ONE (1)** ZIP file.
 
 ## Releases
 
